@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Dehradun
+>>>>>>> 77b506e85af8ed1790f0ec04fa0ff34c6fba2122
 Welcome
 
 Hello world
@@ -36,4 +40,8 @@ class D{
 80%
 >>>>>>> Stashed changes
 =======
+<<<<<<< HEAD
 >>>>>>> 15077912da15d976928f30f0484e7ce3d2b97280
+=======
+>>>>>>> 15077912da15d976928f30f0484e7ce3d2b97280
+>>>>>>> 77b506e85af8ed1790f0ec04fa0ff34c6fba2122
