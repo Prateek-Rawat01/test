@@ -1,12 +1,11 @@
 <<<<<<< HEAD
 =======
-prateek singh rawat
+kcjbdclkadbv
+vojbvffjbvv
+'fovbdovjb
+vbdjvbv
 Dehradun
-<<<<<<< HEAD
 >>>>>>> 77b506e85af8ed1790f0ec04fa0ff34c6fba2122
-=======
-uttarakhand
->>>>>>> refs/remotes/origin/main
 Welcome
 
 Hello world
